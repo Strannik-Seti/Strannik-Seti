@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Привет-привет! <img src="https://yandex.ru/images/search?text=naruto%20gif&from=tabbar&pos=31&rpt=simage&img_url=http%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2FJRRF.gif&lr=35" width="25px">
 
 <!--
 **Strannik-Seti/Strannik-Seti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
