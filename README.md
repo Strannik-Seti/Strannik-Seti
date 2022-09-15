@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Привет-привет! <img src="https://pa1.narvii.com/7055/8946e8de8485cae8c7658a9c9bbe2749b5115f09r1-500-281_hq.gif" width="25px">
+### Привет-привет! <img src="https://pa1.narvii.com/7055/8946e8de8485cae8c7658a9c9bbe2749b5115f09r1-500-281_hq.gif" width="400px">
 
 <!--
 **Strannik-Seti/Strannik-Seti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
